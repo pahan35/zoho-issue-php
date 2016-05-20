@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Wrapper for interact with Zoho CRM API for php",
     "keywords": ["Zoho CRM API PHP Wrapper"],
+    "mctekk/zohocrm": "dev-master",
     "license": "MIT",
     "authors": [
         {
